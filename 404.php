@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>404 | Cascade Flat , Responsive Bootstrap 3.0 Admin Template</title>
+	<title>404 | 2 var Cascade Flat , Responsive Bootstrap 3.0 Admin Template</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<!-- Loading Bootstrap -->
